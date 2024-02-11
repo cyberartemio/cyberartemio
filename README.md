@@ -5,7 +5,7 @@
 <div>
   <!-- Credits for this to: https://github.com/ClaraCrazy/ClaraCrazy -->
   <img align="right" height="215vh" src=".github/assets/jack.gif" alt="" />
-  <img align="right" height="30vh" src="https://upload.wikimedia.org/wikipedia/commons/3/3d/1_120_transparent.png" />
+  <img align="right" height="100vh" src="https://upload.wikimedia.org/wikipedia/commons/3/3d/1_120_transparent.png" />
 </div>
 
 - 👨‍💻 I'm currently playing with `Flipper Zero` and `Pwnagotchi`
