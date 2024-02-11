@@ -3,7 +3,7 @@
 
 ## 💀 TL;DR
 <div>
-  <img align="right" height="240vh" src="" alt="" />
+  <img align="right" height="230vh" src=".github/assets/jack.gif" alt="" />
 </div>
 
 - 👨‍💻 I'm currently playing with `Flipper Zero` and `Pwnagotchi`
