@@ -3,7 +3,7 @@
 
 ## 💀 TL;DR
 
-<img align="right" height="215vh" src=".github/assets/jack.gif" alt="" />
+<img align="right" height="200vh" src=".github/assets/jack.gif" alt="" />
 
 - 👨‍💻 I'm currently playing with `Flipper Zero` and `Pwnagotchi`
 - 🧠 My main interests:
