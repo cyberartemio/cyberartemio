@@ -2,11 +2,8 @@
 <p align="center"><i>Another </i><b>software developer</b><i> interested in </i><b>cyber security</b><i>, </i><b>privacy</b><i> and </i><b>tech</b><i> in general</i></p>
 
 ## 💀 TL;DR
-<div>
-  <!-- Credits for this to: https://github.com/ClaraCrazy/ClaraCrazy -->
-  <img align="right" height="215vh" src=".github/assets/jack.gif" alt="" />
-  <img align="right" height="100vh" src="https://upload.wikimedia.org/wikipedia/commons/3/3d/1_120_transparent.png" />
-</div>
+
+<img align="right" height="215vh" src=".github/assets/jack.gif" alt="" />
 
 - 👨‍💻 I'm currently playing with `Flipper Zero` and `Pwnagotchi`
 - 🧠 My main interests:
