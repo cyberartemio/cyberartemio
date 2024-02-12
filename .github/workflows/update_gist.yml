@@ -14,3 +14,25 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           GIST_ID: ${{ secrets.GIST_ID }}
           TIMEZONE: ${{ secrets.TIMEZONE }}
+  lang-box:
+    runs-on: ubuntu-22.04
+    steps:
+      - name: checkout
+        uses: actions/checkout@v3
+        with:
+          repository: inokawa/lang-box
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "lts/*"
+          cache: "npm"
+      - run: sudo apt-get update
+      - run: sudo apt-get install cmake pkg-config libicu-dev zlib1g-dev libcurl4-openssl-dev libssl-dev ruby-dev
+      - run: sudo gem install github-linguist
+      - run: npm install
+      - run: npm start
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          GIST_ID: ${{ secrets.LANGBOX_ID }}
+          USERNAME: ${{ github.actor }}
