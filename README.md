@@ -12,7 +12,7 @@
   - `Software Development`
   - `Networking`  
 - 🛠️ I mainly work on personal projects
-- 📬 You can find me floating around some Discord servers
+- 📬 You can find me on Discord, feel free to join my server [here](https://discord.gg/5vrJbbW3ve)
 
 <br />
 
