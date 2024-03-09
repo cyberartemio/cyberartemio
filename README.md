@@ -18,7 +18,7 @@
 
 ## 📦 Projects
 
-| **Name** | | **Description** | 
+| **Name** | **Stars** | **Description** | 
 | :-: | :-: | - |
 | [wardriver-pwnagotchi-plugin](https://github.com/cyberartemio/wardriver-pwnagotchi-plugin) | ![](https://img.shields.io/github/stars/cyberartemio/wardriver-pwnagotchi-plugin?style=flat-square&color=yellow) | 🛜 A wardriving plugin for pwnagotchi. Saves all networks seen and uploads data to Wigle.net once internet is available |
 | [wof-pwnagotchi-plugin](https://github.com/cyberartemio/wof-pwnagotchi-plugin) | ![](https://img.shields.io/github/stars/cyberartemio/wof-pwnagotchi-plugin?style=flat-square&color=yellow) | 🐬 Pwnagotchi plugin for Wall of Flippers |
