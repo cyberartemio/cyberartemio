@@ -18,11 +18,12 @@
 
 ## 📦 Projects
 
-| **Name** | **Category** | **Description** | 
+| **Name** | | **Description** | 
 | :-: | :-: | - |
-| [wardriver-pwnagotchi-plugin](https://github.com/cyberartemio/wardriver-pwnagotchi-plugin) | ![](https://img.shields.io/badge/Pwnagotchi-f8b506?style=flat-square) | A wardriving plugin for pwnagotchi. Saves all networks seen and uploads data to Wigle.net once internet is available |
-| [wof-pwnagotchi-plugin](https://github.com/cyberartemio/wof-pwnagotchi-plugin) | ![](https://img.shields.io/badge/Pwnagotchi-f8b506?style=flat-square) | Pwnagotchi plugin for Wall of Flippers |
-| [flipper-pirates-asset-pack](https://github.com/cyberartemio/flipper-pirates-asset-pack) | ![](https://img.shields.io/badge/Flipper_Zero-FF8200?style=flat-square) | Custom asset pack for Flipper Zero based on Pirates of the Caribbean |
+| [wardriver-pwnagotchi-plugin](https://github.com/cyberartemio/wardriver-pwnagotchi-plugin) | ![](https://img.shields.io/github/stars/cyberartemio/wardriver-pwnagotchi-plugin?style=flat-square&color=yellow) | 🛜 A wardriving plugin for pwnagotchi. Saves all networks seen and uploads data to Wigle.net once internet is available |
+| [wof-pwnagotchi-plugin](https://github.com/cyberartemio/wof-pwnagotchi-plugin) | ![](https://img.shields.io/github/stars/cyberartemio/wof-pwnagotchi-plugin?style=flat-square&color=yellow) | 🐬 Pwnagotchi plugin for Wall of Flippers |
+| [flipper-pirates-asset-pack](https://github.com/cyberartemio/flipper-pirates-asset-pack) | ![](https://img.shields.io/github/stars/cyberartemio/flipper-pirates-asset-pack?style=flat-square&color=yellow) | 🏴‍☠️ Custom asset pack for Flipper Zero based on Pirates of the Caribbean |
+| [Wall-of-Flippers](https://github.com/cyberartemio/Wall-of-Flippers) | ![](https://img.shields.io/github/stars/cyberartemio/Wall-of-Flippers?style=flat-square&color=yellow) | 🐬 My fork of Wall of Flippers that can run as a systemd daemon/background process also |
 
 <br />
 
