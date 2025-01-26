@@ -18,13 +18,12 @@
 
 ## 📦 Projects
 
-| **Name** | **Stars** | **Description** | 
-| :-: | :-: | - |
-| [wardriver-pwnagotchi-plugin](https://github.com/cyberartemio/wardriver-pwnagotchi-plugin) | ![](https://img.shields.io/github/stars/cyberartemio/wardriver-pwnagotchi-plugin?style=for-the-badge&label=%E2%AD%90&labelColor=gray&color=gray) | 🛜 A wardriving plugin for pwnagotchi. Saves all networks seen and uploads data to Wigle.net once internet is available |
-| [wof-pwnagotchi-plugin](https://github.com/cyberartemio/wof-pwnagotchi-plugin) | ![](https://img.shields.io/github/stars/cyberartemio/wof-pwnagotchi-plugin?style=for-the-badge&label=%E2%AD%90&labelColor=gray&color=gray) | 🐬 Pwnagotchi plugin for Wall of Flippers |
-| [flipper-pirates-asset-pack](https://github.com/cyberartemio/flipper-pirates-asset-pack) | ![](https://img.shields.io/github/stars/cyberartemio/flipper-pirates-asset-pack?style=for-the-badge&label=%E2%AD%90&labelColor=gray&color=gray) | 🏴‍☠️ Custom asset pack for Flipper Zero based on Pirates of the Caribbean |
-| [Wall-of-Flippers](https://github.com/cyberartemio/Wall-of-Flippers) | ![](https://img.shields.io/github/stars/cyberartemio/Wall-of-Flippers?style=for-the-badge&label=%E2%AD%90&labelColor=gray&color=gray) | 🐬 My fork of Wall of Flippers that can run as a systemd daemon/background process also |
-| [badusb-payloads](https://github.com/cyberartemio/badusb-payloads) | ![](https://img.shields.io/github/stars/cyberartemio/badusb-payloads?style=for-the-badge&label=%E2%AD%90&labelColor=gray&color=gray) | 😈 My BadUSB payloads tested on OMG cable and Flipper Zero. Payloads target mainly MacOS. THIS IS A HEAVY WORK IN PROGRESS |
+<div align="center">
+  <a href="https://github.com/cyberartemio/wardriver-pwnagotchi-plugin"><img width="33%%" src="https://github-readme-stats.vercel.app/api/pin/?username=cyberartemio&repo=wardriver-pwnagotchi-plugin&theme=merko&description_lines_count=3" alt="wardriver-card" /></a>
+  <a href="https://github.com/cyberartemio/wof-pwnagotchi-plugin"><img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=cyberartemio&repo=wof-pwnagotchi-plugin&theme=merko&description_lines_count=3" alt="wof-card" /></a>
+  <a href="https://github.com/cyberartemio/flipper-pirates-asset-pack"><img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=cyberartemio&repo=flipper-pirates-asset-pack&theme=merko&description_lines_count=3" alt="flipper-asset-pack-card" /></a>
+  <a href="https://github.com/cyberartemio/badusb-payloads"><img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=cyberartemio&repo=badusb-payloads&theme=merko&description_lines_count=3" alt="badusb-payloads-card" /></a>
+</div>
 
 <br />
 
@@ -43,6 +42,6 @@
 ## ✨ Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cyberartemio&show_icons=true&theme=merko" width="47%" alt="Github Stats" />
-  <img src="https://streak-stats.demolab.com?user=cyberartemio&theme=merko&include_all_commits=true" width="49.5%" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=cyberartemio&show_icons=true&theme=merko&" width="46.5%" alt="Github Stats" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=cyberartemio&theme=merko&include_all_commits=true" width="49.5%" alt="GitHub Streak" />
 </div>
