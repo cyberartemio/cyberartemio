@@ -19,10 +19,10 @@
 ## 📦 Projects
 
 <div align="center">
-  <a href="https://github.com/cyberartemio/wardriver-pwnagotchi-plugin"><img width="33%%" src="https://github-readme-stats.vercel.app/api/pin/?username=cyberartemio&repo=wardriver-pwnagotchi-plugin&theme=gruvbox&description_lines_count=3" alt="wardriver-card" /></a>
-  <a href="https://github.com/cyberartemio/wof-pwnagotchi-plugin"><img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=cyberartemio&repo=wof-pwnagotchi-plugin&theme=gruvbox&description_lines_count=3" alt="wof-card" /></a>
-  <a href="https://github.com/cyberartemio/flipper-pirates-asset-pack"><img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=cyberartemio&repo=flipper-pirates-asset-pack&theme=gruvbox&description_lines_count=3" alt="flipper-asset-pack-card" /></a>
-  <a href="https://github.com/cyberartemio/badusb-payloads"><img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=cyberartemio&repo=badusb-payloads&theme=gruvbox&description_lines_count=3" alt="badusb-payloads-card" /></a>
+  <a href="https://github.com/cyberartemio/wardriver-pwnagotchi-plugin"><img src="https://github-readme-stats.vercel.app/api/pin/?username=cyberartemio&repo=wardriver-pwnagotchi-plugin&theme=gruvbox&description_lines_count=3" alt="wardriver-card" /></a>
+  <a href="https://github.com/cyberartemio/wof-pwnagotchi-plugin"><img src="https://github-readme-stats.vercel.app/api/pin/?username=cyberartemio&repo=wof-pwnagotchi-plugin&theme=gruvbox&description_lines_count=3" alt="wof-card" /></a>
+  <a href="https://github.com/cyberartemio/flipper-pirates-asset-pack"><img src="https://github-readme-stats.vercel.app/api/pin/?username=cyberartemio&repo=flipper-pirates-asset-pack&theme=gruvbox&description_lines_count=3" alt="flipper-asset-pack-card" /></a>
+  <a href="https://github.com/cyberartemio/badusb-payloads"><img src="https://github-readme-stats.vercel.app/api/pin/?username=cyberartemio&repo=badusb-payloads&theme=gruvbox&description_lines_count=3" alt="badusb-payloads-card" /></a>
 </div>
 
 <br />
