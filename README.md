@@ -6,12 +6,12 @@
 <img align="right" height="200vh" src=".github/assets/jack.gif" alt="" />
 <br />
 
-- 🧠 My main interests:
+- 🧠 Main interests:
   - `Cyber Security` / `Pentesting`
   - `Privacy`
   - `Software Development`
   - `Networking`  
-- 🛠️ I mainly work on personal projects
+- 🛠️ Mainly working on personal projects
 - 📬 You can find me on Discord, feel free to join my server [here](https://discord.gg/5vrJbbW3ve)
 
 <br />
@@ -19,10 +19,10 @@
 ## 📦 Projects
 
 <div align="center">
-  <a href="https://github.com/cyberartemio/wardriver-pwnagotchi-plugin"><img width="33%%" src="https://github-readme-stats.vercel.app/api/pin/?username=cyberartemio&repo=wardriver-pwnagotchi-plugin&theme=merko&description_lines_count=3" alt="wardriver-card" /></a>
-  <a href="https://github.com/cyberartemio/wof-pwnagotchi-plugin"><img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=cyberartemio&repo=wof-pwnagotchi-plugin&theme=merko&description_lines_count=3" alt="wof-card" /></a>
-  <a href="https://github.com/cyberartemio/flipper-pirates-asset-pack"><img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=cyberartemio&repo=flipper-pirates-asset-pack&theme=merko&description_lines_count=3" alt="flipper-asset-pack-card" /></a>
-  <a href="https://github.com/cyberartemio/badusb-payloads"><img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=cyberartemio&repo=badusb-payloads&theme=merko&description_lines_count=3" alt="badusb-payloads-card" /></a>
+  <a href="https://github.com/cyberartemio/wardriver-pwnagotchi-plugin"><img width="33%%" src="https://github-readme-stats.vercel.app/api/pin/?username=cyberartemio&repo=wardriver-pwnagotchi-plugin&theme=gruvbox&description_lines_count=3" alt="wardriver-card" /></a>
+  <a href="https://github.com/cyberartemio/wof-pwnagotchi-plugin"><img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=cyberartemio&repo=wof-pwnagotchi-plugin&theme=gruvbox&description_lines_count=3" alt="wof-card" /></a>
+  <a href="https://github.com/cyberartemio/flipper-pirates-asset-pack"><img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=cyberartemio&repo=flipper-pirates-asset-pack&theme=gruvbox&description_lines_count=3" alt="flipper-asset-pack-card" /></a>
+  <a href="https://github.com/cyberartemio/badusb-payloads"><img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=cyberartemio&repo=badusb-payloads&theme=gruvbox&description_lines_count=3" alt="badusb-payloads-card" /></a>
 </div>
 
 <br />
@@ -42,6 +42,10 @@
 ## ✨ Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cyberartemio&show_icons=true&theme=merko&" width="46.5%" alt="Github Stats" />
-  <img src="https://github-readme-streak-stats-eight.vercel.app?user=cyberartemio&theme=merko&include_all_commits=true" width="49.5%" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=cyberartemio&show_icons=true&theme=gruvbox&" width="46.5%" alt="Github Stats" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=cyberartemio&theme=gruvbox&include_all_commits=true" width="49.5%" alt="GitHub Streak" />
+</div>
+<br />
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=cyberartemio&theme=gruvbox&no-frame=false&margin-w=15" alt="github-trophies" />
 </div>
