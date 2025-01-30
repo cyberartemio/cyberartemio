@@ -1,18 +1,26 @@
 <h1 align="center">Hi there 👋, I'm cyberartemio!</h1>
 <p align="center"><i>Another </i><b>software developer</b><i> interested in </i><b>cyber security</b><i>, </i><b>privacy</b><i> and </i><b>tech</b><i> in general</i></p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=cyberartemio&label=Views&style=for-the-badge&color=green" alt="views-badge" />
+  <img src="https://badges.strrl.dev/repos/cyberartemio?style=for-the-badge&color=pink" alt="repo-count-badge" />
+  <img src="https://badges.strrl.dev/contributions/all/cyberartemio?style=for-the-badge&color=yellow&label=All%20contribs" alt="repo-count-badge" />
+  <img src="https://badges.strrl.dev/prs/all/cyberartemio?style=for-the-badge&color=orange" alt="repo-count-badge" />
+  <br />
+  <a href="https://discord.gg/5vrJbbW3ve"><img src="https://img.shields.io/badge/Discord%20Server-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="discord-badge" /></a>
+</div>
 
 ## ☠️ TL;DR
 
-<img align="right" height="200vh" src=".github/assets/jack.gif" alt="" />
+<img align="right" height="250vh" src=".github/assets/jack.gif" alt="" />
 <br />
 
-- 🧠 Main interests:
-  - `Cyber Security` / `Pentesting`
-  - `Privacy`
-  - `Software Development`
-  - `Networking`  
-- 🛠️ Mainly working on personal projects
-- 📬 You can find me on Discord, feel free to join my server [here](https://discord.gg/5vrJbbW3ve)
+- 🧠 **Main interests:**
+  - Cyber Security / Pentesting
+  - Privacy
+  - Software development
+  - Networking  
+- 🛠️ **Working on:**
+  - personal projects
 
 <br />
 
